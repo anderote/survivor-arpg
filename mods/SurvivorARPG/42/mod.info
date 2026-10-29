@@ -1,0 +1,7 @@
+name=Survivor PDA: ARPG Upgrades
+id=SurvivorARPG
+description=Attribute points, scavenging, automation, powerups and Respawn persistence inside Survivor PDA. Single-player and multiplayer prototype for Build 42.21.
+require=ProjectRPGExpanded,Respawn
+loadAfter=ProjectRPGExpanded,Respawn
+versionMin=42.21
+modversion=0.2.0

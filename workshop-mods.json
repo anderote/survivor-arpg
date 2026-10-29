@@ -1,0 +1,40 @@
+{
+  "game_build": "42.21.0",
+  "mods": [
+    "ZombieBuddy",
+    "ProjectRPGExpanded",
+    "SkullysZombieCollision",
+    "Respawn",
+    "RealLimbs",
+    "MoreDamagedObjects",
+    "KnoxPacks",
+    "DetailedModels",
+    "DetailedModelsALICE",
+    "DetailedModelsTools",
+    "GarageWorks",
+    "TootsBaseDefense",
+    "SWMG",
+    "GunsOfMarz",
+    "ProjectALifeNPCs",
+    "SurvivorARPG"
+  ],
+  "workshop_ids": [
+    "3619862853",
+    "3826426915",
+    "3778511497",
+    "3827957976",
+    "3413150945",
+    "3822813865",
+    "3825976597",
+    "3827956263",
+    "3827271522",
+    "3825722984",
+    "3722064198",
+    "3722134990",
+    "3803984183"
+  ],
+  "local_mods": [
+    "SurvivorARPG",
+    "Respawn"
+  ]
+}

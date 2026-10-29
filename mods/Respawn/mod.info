@@ -1,0 +1,8 @@
+name=Respawn
+poster=poster.png
+id=Respawn
+description=New occupation option to respawn with skills and traits.
+modversion=1.0.2
+author=pinzis
+icon=icon.png
+url=https://github.com/StarkSilence/Respawn

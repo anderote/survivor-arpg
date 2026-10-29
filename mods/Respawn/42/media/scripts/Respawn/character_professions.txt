@@ -1,0 +1,11 @@
+module Respawn
+{
+    character_profession_definition respawn:respawn
+    {
+        CharacterProfession = respawn:respawn,
+        Cost = 0,
+        UIName = UI_prof_Respawn,
+        UIDescription = UI_profdesc_Respawn,
+        IconPathName = profession_respawn,
+    }
+}

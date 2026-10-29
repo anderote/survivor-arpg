@@ -1,0 +1,9 @@
+name=Respawn [B42]
+poster=poster.png
+id=Respawn
+description=New occupation option to respawn with skills and traits.
+versionMin=42.20.3
+modversion=1.0.2
+author=pinzis
+icon=icon.png
+url=https://github.com/StarkSilence/Respawn
