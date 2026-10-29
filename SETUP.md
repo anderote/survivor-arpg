@@ -28,7 +28,7 @@ Do not add Escape From Zomboid, Viewpoint, the old MarzGuns version or WW1Weapon
 
 ## 3. Install our two local mods
 
-1. Open [the download page](https://github.com/anderote/survivor-arpg/releases/latest).
+1. Open [the download page](https://github.com/anderote/survivor-arpg/releases/tag/v0.2.0).
 2. Under **Assets**, download **SurvivorARPG-Coop-0.2.0.zip**. Use this file, not GitHub's automatically generated “Source code” downloads.
 3. Extract/unzip it. Inside `mods`, you will find two folders: **SurvivorARPG** and **Respawn**.
 4. Copy those two folders into your Zomboid **mods** folder:

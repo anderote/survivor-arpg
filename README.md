@@ -4,7 +4,7 @@ A custom add-on for **Project Zomboid Build 42.21** and **Survivor PDA**: three 
 
 **Joining the co-op game? Follow [START HERE](SETUP.md).** No Git, coding or terminal commands needed.
 
-[Download the co-op ZIP](https://github.com/anderote/survivor-arpg/releases/latest) — choose **SurvivorARPG-Coop-0.2.0.zip** under Assets. This includes our add-on and the exact Respawn version used by the host. Other mods download from Steam Workshop.
+[Download the co-op ZIP](https://github.com/anderote/survivor-arpg/releases/tag/v0.2.0) — choose **SurvivorARPG-Coop-0.2.0.zip** under Assets. This includes our add-on and the exact Respawn version used by the host. Other mods download from Steam Workshop.
 
 ## What it adds
 
